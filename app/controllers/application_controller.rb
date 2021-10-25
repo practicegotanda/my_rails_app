@@ -5,7 +5,7 @@ class ApplicationController < ActionController::Base
   end
   
   def goodbey
-    render html:"goodbey"
+    render html:"goodbay"
   end
   
 end
